@@ -1,2 +1,2 @@
 # chatbot_for_sentimental_analysis
-This is a chatbot for sentimental analysing
+This is a chatbot for sentimental analysis
